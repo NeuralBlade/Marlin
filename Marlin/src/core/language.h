@@ -156,7 +156,7 @@
 #define STR_Z4_MIN                          "z4_min"
 #define STR_Z4_MAX                          "z4_max"
 #define STR_Z_PROBE                         "z_probe"
-#define STR_FILAMENT_RUNOUT_SENSOR          "filament"
+#define STR_FILAMENT_RUNOUT_SENSOR          "ros_0"
 #define STR_PROBE_OFFSET                    "Probe Offset"
 #define STR_SKEW_MIN                        "min_skew_factor: "
 #define STR_SKEW_MAX                        "max_skew_factor: "
